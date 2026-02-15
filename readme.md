@@ -16,6 +16,14 @@ I'm a Computer Science student passionate about every tech.
 - ♟️ Fun fact: **I play chess and love cats! 🐱**
 - 🌱 Currently expanding my knowledge in cloud technologies and DevOps
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
