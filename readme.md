@@ -73,11 +73,11 @@ I'm a Computer Science student passionate about every tech.
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WinTer1165&theme=tokyonight" />
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NafisIshtiaque&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WinTer1165&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=F85D7F&line=F85D7F&point=FFFFFF" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NafisIshtiaque&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=F85D7F&line=F85D7F&point=FFFFFF" width="95%"/>
 </p>
 
 ## 🎯 Current Focus
@@ -90,16 +90,20 @@ I'm a Computer Science student passionate about every tech.
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminulislamlabib@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WinTer1165)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishtiaquenafis3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NafisIshtiaque)
+<!--
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminulislamlabib/)
+
+-->
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WinTer1165&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=NafisIshtiaque&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
   ### 🐱 Cat fact: Cats spend 70% of their lives sleeping. That's 13-16 hours a day!
   
